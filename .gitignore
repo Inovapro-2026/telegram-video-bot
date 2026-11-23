@@ -1,0 +1,10 @@
+node_modules/
+dist/
+temp/
+.env
+*.log
+npm-debug.log*
+coverage/
+.zip
+*.zip
+.DS_Store
